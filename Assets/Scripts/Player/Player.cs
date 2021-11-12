@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Events;           // Подключаем для обработки событий UnityAction
+using UnityEngine.Events;
 
 [RequireComponent(typeof(SpriteRenderer), typeof(Animator))]
 public class Player : MonoBehaviour

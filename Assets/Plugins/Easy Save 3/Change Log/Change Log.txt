@@ -1,3 +1,7 @@
+3.3.2f7
+- Type data is now stored when using ES3.Serialize<object>.
+- Worked around issue where Unity would return an incorrect number of assemblies.
+
 3.3.2f6
 - ES3Spreadsheet now correctly serializes object types into a CSV file.
 - Resolved issue where an object[] containing primitive types could not be loaded in some situations.

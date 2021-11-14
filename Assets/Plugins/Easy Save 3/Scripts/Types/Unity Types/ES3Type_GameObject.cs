@@ -114,6 +114,8 @@ namespace ES3Types
                 }
                 else if (propertyName == null)
                 {
+                    /*if (obj == null)
+                        obj = CreateNewGameObject(refMgr, id);*/
                     return obj;
                 }
                 else

@@ -9,7 +9,6 @@ public class PlayerInput : MonoBehaviour
 
     private void Start()
     {
-        // чтобы так делать лучше предварительно гарантировать, что этот компонент будет, через [RequireComponent]
         _mover = GetComponent<PlayerMover>();       
     }
 

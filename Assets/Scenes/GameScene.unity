@@ -5144,10 +5144,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1777514275018946, guid: 19496fb0724956444bb683fa892bc61c, type: 3}
-      propertyPath: m_Icon
-      value: 
-      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
-    - target: {fileID: 1777514275018946, guid: 19496fb0724956444bb683fa892bc61c, type: 3}
       propertyPath: m_Name
       value: WindFX
       objectReference: {fileID: 0}
@@ -5194,10 +5190,6 @@ PrefabInstance:
     - target: {fileID: 4811915472702894, guid: 19496fb0724956444bb683fa892bc61c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 198743469195280986, guid: 19496fb0724956444bb683fa892bc61c, type: 3}
-      propertyPath: looping
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19496fb0724956444bb683fa892bc61c, type: 3}

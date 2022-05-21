@@ -22,7 +22,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &895342596832113725
 Transform:
   m_ObjectHideFlags: 0
@@ -371,14 +371,6 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 443696, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.6666665
-      objectReference: {fileID: 0}
-    - target: {fileID: 443696, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.6666665
-      objectReference: {fileID: 0}
-    - target: {fileID: 443696, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -416,14 +408,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 443696, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 19812724, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
-      propertyPath: looping
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 19855650, guid: 175f228faf82daa4288b92c0bf83f5ac, type: 3}
-      propertyPath: looping
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
